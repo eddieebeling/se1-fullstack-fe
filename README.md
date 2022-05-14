@@ -38,56 +38,56 @@ Intro = Donec dapibus scelerisque orci, sed consectetur est posuere sed. Duis vi
         "title":"Senior Designer",
         "twitterUrl":"https://twitter.com/leokras92",
         "linkedInUrl":"https://linkedin.com/in/leokras92",
-        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374854/sse-3-images/leonard-krasner_k6wogh.png"
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/leonard-krasner_k6wogh.png"
     },
     {
         "name":"Floyd Miles",
         "title":"Principal Designer",
         "twitterUrl":"https://twitter.com/fllloydm",
         "linkedInUrl":"https://linkedin.com/in/fllloydm",
-        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374854/sse-3-images/floyd-miles_d3ad0q.png"
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/floyd-miles_d3ad0q.png"
     },
     {
         "name":"Anna Roberts",
         "title":"Partner, Creative",
         "twitterUrl":"https://twitter.com/aroberts94",
         "linkedInUrl":"https://linkedin.com/in/aroberts94",
-        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374855/sse-3-images/anna-roberts_l2fbkj.png"
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/anna-roberts_l2fbkj.png"
     },
     {
         "name":"Whitney Francis",
         "title":"Copywriter",
         "twitterUrl":"https://twitter.com/whitneyfrancis",
         "linkedInUrl":"https://linkedin.com/in/whitneyfrancis",
-        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374854/sse-3-images/whitney-francis_zywbee.png"
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/whitney-francis_zywbee.png"
     },
     {
         "name":"Emma Dorsey",
         "title":"Senior Front-end Developer",
         "twitterUrl":"https://twitter.com/thedorseyem",
         "linkedInUrl":"https://linkedin.com/in/thedorseyem",
-        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374855/sse-3-images/emma-dorsey_byn3pp.png"
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/emma-dorsey_byn3pp.png"
     },
     {
         "name":"Alicia Bell",
         "title":"Junior Copywriter",
         "twitterUrl":"https://twitter.com/bellalicia",
         "linkedInUrl":"https://linkedin.com/in/bellalicia",
-        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374854/sse-3-images/alicia-bell_dmuyow.png"
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/alicia-bell_dmuyow.png"
     }
 ]
 ```
 #### Images 
 All profile images are hosted on Cloudinary CDN. You can use these links for the following profile pictures (names may differ from the mockup).
 
-* leonard-krasner - [https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374854/sse-3-images/leonard-krasner_k6wogh.png](https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374854/sse-3-images/leonard-krasner_k6wogh.png)
-* floyd-miles - [https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374854/sse-3-images/floyd-miles_d3ad0q.png](https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374854/sse-3-images/floyd-miles_d3ad0q.png)
-* anna-roberts [https://res.cloudinary.com/dot-foods/image/upload/v1649374855/sse-3-images/anna-roberts_l2fbkj.png](https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374855/sse-3-images/anna-roberts_l2fbkj.png)
-* whitney-francis - [https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/whitney-francis_zywbee.png](https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374854/sse-3-images/whitney-francis_zywbee.png)
-* emma-dorsey - [https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374855/sse-3-images/emma-dorsey_byn3pp.png](https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374855/sse-3-images/emma-dorsey_byn3pp.png)
-* alicia-bell - [https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374854/sse-3-images/alicia-bell_dmuyow.png](https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649374854/sse-3-images/alicia-bell_dmuyow.png)
-* Twitter Icon - [https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649377334/sse-3-images/twitter-icon_vrfevs.png](https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649377334/sse-3-images/twitter-icon_vrfevs.png)
-* LinkedIn Icon - [https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649377334/sse-3-images/linkedin-icon_knv4dg.png](https://res.cloudinary.com/dot-foods/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1649377334/sse-3-images/linkedin-icon_knv4dg.png)
+* leonard-krasner - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/leonard-krasner_k6wogh.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/leonard-krasner_k6wogh.png)
+* floyd-miles - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/floyd-miles_d3ad0q.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/floyd-miles_d3ad0q.png)
+* anna-roberts [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/anna-roberts_l2fbkj.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/anna-roberts_l2fbkj.png)
+* whitney-francis - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/whitney-francis_zywbee.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/whitney-francis_zywbee.png)
+* emma-dorsey - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/emma-dorsey_byn3pp.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/emma-dorsey_byn3pp.png)
+* alicia-bell - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/alicia-bell_dmuyow.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/alicia-bell_dmuyow.png)
+* Twitter Icon - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/twitter-icon_vrfevs.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/twitter-icon_vrfevs.png)
+* LinkedIn Icon - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/linkedin-icon_knv4dg.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/linkedin-icon_knv4dg.png)
 
 ### You may use
 Any web-based developer tool that allows you to share a link to your project like [Codepen](https://codepen.io/) or [CodeSandbox](https://codesandbox.io/).
