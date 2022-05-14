@@ -21,7 +21,7 @@ You may use any **sans-serif** system or [Google font](https://fonts.google.com/
 
 #### Hex Colors
 ```
-#0e131e /* Body */
+#0e131e /* Body Background */
 #191f2b /* Card Background */
 #ffffff /* Text White (Heading) */
 #c5cdd8 /* Text Light (Name) */
