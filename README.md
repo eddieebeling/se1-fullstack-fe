@@ -1,6 +1,6 @@
 # Full Stack & Front-End Developer Assessment 
 
-The scope of this assessment is to use the following mockup to build a "Meet our team" page using HTML, CSS, and JavaScript.  You will be asked to provide a link to your project prior to your technical or team interview.
+####The scope of this assessment is to use the following mockup to build a "Meet our team" page using HTML, CSS, and JavaScript.  You will be asked to provide a link to your project prior to your technical or team interview.
 
 ![Meet our team](meet-our-team.jpg)
 
@@ -78,7 +78,7 @@ Intro = Donec dapibus scelerisque orci, sed consectetur est posuere sed. Duis vi
 ]
 ```
 #### Images 
-All profile images are in the images folder in this respository as well as hosted on Cloudinary CDN. You can use these links for the following profile pictures (names may differ from the mockup).
+All profile images are in the images folder in this respository, as well as hosted on Cloudinary CDN. You can use these links for the following profile pictures (names may differ from the mockup).
 
 * leonard-krasner - [https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/leonard-krasner_k6wogh.png](https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/leonard-krasner_k6wogh.png)
 * floyd-miles - [https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/floyd-miles_d3ad0q.png](https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/floyd-miles_d3ad0q.png)
