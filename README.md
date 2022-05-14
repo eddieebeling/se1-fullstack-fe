@@ -21,16 +21,16 @@ You may use any **sans-serif** system or [Google font](https://fonts.google.com/
 
 #### Hex Colors
 ```
-#0e131e // Body
-#191f2b // Card Background
-#ffffff // Text White (Heading)
-#c5cdd8 // Text Light (Name)
-#6f71f1 // Text Hightlight (Title)
+#0e131e /* Body */
+#191f2b /* Card Background */
+#ffffff /* Text White (Heading) */
+#c5cdd8 /* Text Light (Name) */
+#6f71f1 /* Text Hightlight (Title) */
 ```
 #### Content
 ```
-Heading: Meet our team
-Intro: Donec dapibus scelerisque orci, sed consectetur est posuere sed. Duis viverra interdum vulputate
+*Heading* = Meet our team
+*Intro* = Donec dapibus scelerisque orci, sed consectetur est posuere sed. Duis viverra interdum vulputate
 
 [
     {
@@ -62,22 +62,20 @@ Intro: Donec dapibus scelerisque orci, sed consectetur est posuere sed. Duis viv
         "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/whitney-francis_zywbee.png"
     },
     {
-        "name":"Alicia Bell",
-        "title":"Junior Copywriter",
-        "twitterUrl":"https://twitter.com/bellalicia",
-        "linkedInUrl":"https://linkedin.com/in/bellalicia",
-        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/alicia-bell_dmuyow.png"
-    },
-    {
         "name":"Emma Dorsey",
         "title":"Senior Front-end Developer",
         "twitterUrl":"https://twitter.com/thedorseyem",
         "linkedInUrl":"https://linkedin.com/in/thedorseyem",
         "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374855/sse-3-images/emma-dorsey_byn3pp.png"
+    },
+    {
+        "name":"Alicia Bell",
+        "title":"Junior Copywriter",
+        "twitterUrl":"https://twitter.com/bellalicia",
+        "linkedInUrl":"https://linkedin.com/in/bellalicia",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/alicia-bell_dmuyow.png"
     }
 ]
-
-
 ```
 #### Images 
 All profile images are in the images folder in this respository as well as hosted on Cloudinary CDN. You can use these links for the following profile pictures (names may differ from the mockup).
@@ -88,15 +86,8 @@ All profile images are in the images folder in this respository as well as hoste
 * whitney-francis - [https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/whitney-francis_zywbee.png](https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/whitney-francis_zywbee.png)
 * emma-dorsey - [https://res.cloudinary.com/dot-foods/image/upload/v1649374855/sse-3-images/emma-dorsey_byn3pp.png](https://res.cloudinary.com/dot-foods/image/upload/v1649374855/sse-3-images/emma-dorsey_byn3pp.png)
 * alicia-bell - [https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/alicia-bell_dmuyow.png](https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/alicia-bell_dmuyow.png)
-
 * Twitter Icon - [https://res.cloudinary.com/dot-foods/image/upload/v1649377334/sse-3-images/twitter-icon_vrfevs.png](https://res.cloudinary.com/dot-foods/image/upload/v1649377334/sse-3-images/twitter-icon_vrfevs.png)
 * LinkedIn Icon - [https://res.cloudinary.com/dot-foods/image/upload/v1649377334/sse-3-images/linkedin-icon_knv4dg.png](https://res.cloudinary.com/dot-foods/image/upload/v1649377334/sse-3-images/linkedin-icon_knv4dg.png)
-
-### JavaScript
-Bonus points for using any modern JavaScript framework like [Vue.js](https://vuejs.org/), [React](https://reactjs.org/), [Angular](https://angular.io/), or [AlpineJs](https://alpinejs.dev/), but feel free to use vanila JavaScript ES6 or jQuery if you feel more comfortable.
-
-### CSS
-TBD
 
 ### You may use
 Any web-based developer tool that allows you to share a link to your project like [Codepen](https://codepen.io/) or [CodeSandbox](https://codesandbox.io/).
