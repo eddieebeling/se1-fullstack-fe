@@ -29,8 +29,8 @@ You may use any **sans-serif** system or [Google font](https://fonts.google.com/
 ```
 #### Content
 ```
-*Heading* = Meet our team
-*Intro* = Donec dapibus scelerisque orci, sed consectetur est posuere sed. Duis viverra interdum vulputate
+Heading = Meet our team
+Intro = Donec dapibus scelerisque orci, sed consectetur est posuere sed. Duis viverra interdum vulputate
 
 [
     {
