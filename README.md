@@ -10,7 +10,8 @@ The scope of this assessment is to use the following mockup to build a "Meet our
   * Single column layout up to 480px
   * Two column layout up to 900px
   * Three column layout for screens 901px and up
-  * Set a max width on the card layout at 1280px
+  * Set a max width on the card layout at 1280px and center the content
+* Create hyperlinks and hover states for LinkedIn and Twitter icons
 
 
 ### Specifications
@@ -30,6 +31,53 @@ You may use any **sans-serif** system or [Google font](https://fonts.google.com/
 ```
 Heading: Meet our team
 Intro: Donec dapibus scelerisque orci, sed consectetur est posuere sed. Duis viverra interdum vulputate
+
+[
+    {
+        "name":"Leonard Krasner",
+        "title":"Senior Designer",
+        "twitterUrl":"https://twitter.com/leokras92",
+        "linkedInUrl":"https://linkedin.com/in/leokras92",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/leonard-krasner_k6wogh.png"
+    },
+    {
+        "name":"Floyd Miles",
+        "title":"Principal Designer",
+        "twitterUrl":"https://twitter.com/fllloydm",
+        "linkedInUrl":"https://linkedin.com/in/fllloydm",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/floyd-miles_d3ad0q.png"
+    },
+    {
+        "name":"Anna Roberts",
+        "title":"Partner, Creative",
+        "twitterUrl":"https://twitter.com/aroberts94",
+        "linkedInUrl":"https://linkedin.com/in/aroberts94",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374855/sse-3-images/anna-roberts_l2fbkj.png"
+    },
+    {
+        "name":"Whitney Francis",
+        "title":"Copywriter",
+        "twitterUrl":"https://twitter.com/whitneyfrancis",
+        "linkedInUrl":"https://linkedin.com/in/whitneyfrancis",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/whitney-francis_zywbee.png"
+    },
+    {
+        "name":"Alicia Bell",
+        "title":"Junior Copywriter",
+        "twitterUrl":"https://twitter.com/bellalicia",
+        "linkedInUrl":"https://linkedin.com/in/bellalicia",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374854/sse-3-images/alicia-bell_dmuyow.png"
+    },
+    {
+        "name":"Emma Dorsey",
+        "title":"Senior Front-end Developer",
+        "twitterUrl":"https://twitter.com/thedorseyem",
+        "linkedInUrl":"https://linkedin.com/in/thedorseyem",
+        "profileImg":"https://res.cloudinary.com/dot-foods/image/upload/v1649374855/sse-3-images/emma-dorsey_byn3pp.png"
+    }
+]
+
+
 ```
 #### Images 
 All profile images are in the images folder in this respository as well as hosted on Cloudinary CDN. You can use these links for the following profile pictures (names may differ from the mockup).
