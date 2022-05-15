@@ -86,8 +86,8 @@ All profile images are hosted on Cloudinary CDN. You can use these links for the
 * whitney-francis - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/whitney-francis_zywbee.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/whitney-francis_zywbee.png)
 * emma-dorsey - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/emma-dorsey_byn3pp.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/emma-dorsey_byn3pp.png)
 * alicia-bell - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/alicia-bell_dmuyow.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/alicia-bell_dmuyow.png)
-* Twitter Icon - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/twitter-icon_vrfevs.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/twitter-icon_vrfevs.png)
-* LinkedIn Icon - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/linkedin-icon_knv4dg.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/linkedin-icon_knv4dg.png)
+* Twitter Icon - [https://res.cloudinary.com/dot-foods/image/upload/sse-3-images/twitter-icon_vrfevs.png](https://res.cloudinary.com/dot-foods/image/upload/sse-3-images/twitter-icon_vrfevs.png)
+* LinkedIn Icon - [https://res.cloudinary.com/dot-foods/image/upload/sse-3-images/linkedin-icon_knv4dg.png](https://res.cloudinary.com/dot-foods/image/upload/sse-3-images/linkedin-icon_knv4dg.png)
 
 ### You may use
 Any web-based developer tool that allows you to share a link to your project like [Codepen](https://codepen.io/) or [CodeSandbox](https://codesandbox.io/).
