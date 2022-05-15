@@ -5,7 +5,7 @@ The scope of this assessment is to use the following mockup to build a "Meet our
 ![Meet our team](meet-our-team-v2.png)
 
 ### Requirements
-* Build a webpage using HTML and CSS
+* Build a webpage using HTML and CSS ([Codepen](https://codepen.io/) or [CodeSandbox](https://codesandbox.io/))
 * Make the page layout responsive for mobile, tablet, and desktop:
   * Single column layout up to 480px
   * Two column layout up to 900px
