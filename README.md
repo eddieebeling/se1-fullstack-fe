@@ -7,9 +7,9 @@ The scope of this assessment is to use the following mockup to build a "Meet our
 ### Requirements
 * Build a webpage using HTML and CSS ([Codepen](https://codepen.io/) or [CodeSandbox](https://codesandbox.io/))
 * Make the page layout responsive for mobile, tablet, and desktop:
-  * Single column layout up to 480px
-  * Two column layout up to 900px
-  * Three column layout for screens 901px and up
+  * Single column layout up to 768px
+  * Two column layout from 769px to 1024px
+  * Three column layout for screens 1025px and up
   * Set a max width on the card layout at 1280px and center the content
 * Create hyperlinks and hover states for LinkedIn and Twitter icons
 
@@ -17,7 +17,7 @@ The scope of this assessment is to use the following mockup to build a "Meet our
 ### Specifications
 
 #### Typography
-You may use any **sans-serif** system or [Google font](https://fonts.google.com/). 
+You may use any **sans-serif** system or [Google font](https://fonts.google.com/). The mockup uses [Montserrat](https://fonts.google.com/specimen/Montserrat) with a 400 and 800 font-weight.
 
 #### Hex Colors
 ```
