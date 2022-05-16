@@ -77,8 +77,8 @@ Intro = Donec dapibus scelerisque orci, sed consectetur est posuere sed. Duis vi
     }
 ]
 ```
-#### Images 
-All profile images are hosted on Cloudinary CDN. You can use these links for the following profile pictures (names may differ from the mockup).
+#### Profile Images 
+All profile images are hosted on Cloudinary CDN. You can use these links for the following profile pictures.
 
 * leonard-krasner - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/leonard-krasner_k6wogh.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/leonard-krasner_k6wogh.png)
 * floyd-miles - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/floyd-miles_d3ad0q.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/floyd-miles_d3ad0q.png)
@@ -86,6 +86,8 @@ All profile images are hosted on Cloudinary CDN. You can use these links for the
 * whitney-francis - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/whitney-francis_zywbee.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/whitney-francis_zywbee.png)
 * emma-dorsey - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/emma-dorsey_byn3pp.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/emma-dorsey_byn3pp.png)
 * alicia-bell - [https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/alicia-bell_dmuyow.png](https://res.cloudinary.com/dot-foods/image/upload/c_fill,ar_1:1/sse-3-images/alicia-bell_dmuyow.png)
+
+#### Icons 
 * Twitter Icon - [https://res.cloudinary.com/dot-foods/image/upload/sse-3-images/twitter-icon_vrfevs.png](https://res.cloudinary.com/dot-foods/image/upload/sse-3-images/twitter-icon_vrfevs.png)
 * LinkedIn Icon - [https://res.cloudinary.com/dot-foods/image/upload/sse-3-images/linkedin-icon_knv4dg.png](https://res.cloudinary.com/dot-foods/image/upload/sse-3-images/linkedin-icon_knv4dg.png)
 
